@@ -2,7 +2,7 @@
 
 $host = "localhost";
 $user = "u681719709_Admin";
-$pass = 'process.env.DATABASE_PRIVATE_KEY';
+$pass = 'bc back';
 $dbName = "u681719709_LWM";
 
 
